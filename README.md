@@ -2,8 +2,7 @@
 ## **Thai University Tuition Fee Dashboard Computer and AI Engineering** ##
 
 ## **Project Overview**
-This interactive web application leverages Streamlit technology to create a comprehensive analytical platform for exploring tuition fee structures across Thai universities, specifically focusing on Computer Engineering and Artificial Intelligence programs. By transforming raw data from the TCAS into meaningful visualizations, this dashboard empowers prospective students to make data-driven educational investment decisions.
-The application features a multi-layered analysis approach, combining statistical with geographical distribution patterns to provide a 360-degree view of higher education costs in Thailand's technology sector. Through dynamic filtering capabilities and real-time chart updates, users can customize their exploration based on budget constraints, geographic preferences, and academic program types.
+An interactive Streamlit dashboard that analyzes tuition fee data from Thai universities' Computer Engineering and AI programs. Built using TCAS data, The application features a multi-layered analysis approach, higher education costs in Thailand's technology sector. Through dynamic filtering capabilities and real-time chart updates, users can customize their exploration based on budget constraints, geographic preferences, and academic program types.
 
 
 ## **Data Extraction & Processing**
@@ -63,7 +62,7 @@ Ensure that you have Python installed on your system before proceeding.
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/UJhinN/Comparison-of-tuition-fees.git>
+git clone https://github.com/UJhinN/Comparison-of-tuition-fees.git
 ```
 
 2. Navigate to the project directory:
@@ -163,10 +162,7 @@ This dashboard serves as a valuable tool for:
 - Social media sharing capabilities
 - User preference saving and recommendations
 
-## **Contributing**
-Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
 ## **License**
-This project is developed for educational purposes as part of the AI Ecosystem Module coursework.
+This project is developed for educational purposes as part of the AI Ecosystem Module.
 
 ---
