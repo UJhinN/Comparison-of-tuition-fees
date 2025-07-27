@@ -2,7 +2,8 @@
 ## **Thai University Tuition Fee Dashboard Computer and AI Engineering** ##
 
 ## **Project Overview**
-This project presents a **Streamlit web application** designed to visualize tuition fee data of Computer Engineering and Artificial Intelligence Engineering programs offered by Thai universities. The data is collected from MyTCAS.com, then cleaned, processed, and displayed using interactive dashboards. The system aims to assist high school students and parents in comparing tuition costs and exploring academic programs more easily.
+This interactive web application leverages Streamlit technology to create a comprehensive analytical platform for exploring tuition fee structures across Thai universities, specifically focusing on Computer Engineering and Artificial Intelligence programs. By transforming raw data from the TCAS into meaningful visualizations, this dashboard empowers prospective students to make data-driven educational investment decisions.
+The application features a multi-layered analysis approach, combining statistical with geographical distribution patterns to provide a 360-degree view of higher education costs in Thailand's technology sector. Through dynamic filtering capabilities and real-time chart updates, users can customize their exploration based on budget constraints, geographic preferences, and academic program types.
 
 
 ## **Data Extraction & Processing**
